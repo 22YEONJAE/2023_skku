@@ -32,4 +32,5 @@ int main() {
     }
 
     printf("%d", count);
+    printf("%c", 's');
 }
