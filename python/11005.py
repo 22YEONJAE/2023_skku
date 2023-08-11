@@ -23,8 +23,3 @@ ans.reverse()
 
 # list를 문자열로 변환할 때
 print(''.join(ans))
-
-
-
-
-
